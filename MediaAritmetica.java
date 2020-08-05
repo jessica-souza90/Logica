@@ -31,6 +31,5 @@ public class MediaAritmetica {
         System.out.println("A media e: " + media);
 
         sc.close();
-        
-	}
+    }
 }
